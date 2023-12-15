@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @justamitkrr
+- 👋 Hi, I’m Amit kumar
 - 👀 I’m interested in Data Scientist
 - 🌱 I’m currently learning Data Scientist
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me amitkrevolve@gmail.com
 
 <!---
